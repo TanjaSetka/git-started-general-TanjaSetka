@@ -1,0 +1,55 @@
+commit 3c42612cd413f71766acc7895e5ff196bb5361e1 (HEAD -> main, origin/main, origin/HEAD)
+Author: TanjaSetka <98274404+TanjaSetka@users.noreply.github.com>
+commit 3c42612cd413f71766acc7895e5ff196bb5361e1 (HEAD -> main, origin/main, origin/HEAD)
+Author: TanjaSetka <98274404+TanjaSetka@users.noreply.github.com>
+Date:   Thu Jan 27 20:27:57 2022 +0100
+
+    Deleted testfile
+
+commit 3821e4ebf8c28c5b0a181bb58ecffdac2cec62b7
+Author: TanjaSetka <tanja.setka94@gmail.com>
+Date:   Thu Jan 27 20:23:53 2022 +0100
+
+    Added all again
+
+commit 1d891dd33a20579532fc46147922944238e9c979
+Author: TanjaSetka <tanja.setka94@gmail.com>
+Date:   Thu Jan 27 20:19:39 2022 +0100
+
+    Changed name of file
+
+commit a5bc3b0d99e3c109031aa42f60423c3997e95e96
+Author: TanjaSetka <tanja.setka94@gmail.com>
+Date:   Thu Jan 27 20:08:39 2022 +0100
+
+    Added a few sentences
+
+commit f89c3369d6adfe4e573998a23429cd1ca36c1a97
+Author: TanjaSetka <tanja.setka94@gmail.com>
+Date:   Thu Jan 27 20:02:13 2022 +0100
+
+    Fixed .gitignore
+
+commit fe211999a7b0639312b156c6b6670f1441ad407b
+Author: TanjaSetka <tanja.setka94@gmail.com>
+Date:   Thu Jan 27 19:12:40 2022 +0100
+
+    Added file lorem.txt
+
+commit fc4887ac3efa96413defe44fd53d989db350a027
+Author: TanjaSetka <tanja.setka94@gmail.com>
+Date:   Thu Jan 27 18:44:59 2022 +0100
+
+    Added .gitignore
+
+commit 3ddd4f3a8ed502ef183f349c249af561dcf63069
+Author: TanjaSetka <98274404+TanjaSetka@users.noreply.github.com>
+Date:   Thu Jan 27 17:23:42 2022 +0100
+
+    Create testfile
+
+commit 49c3bcb475c32ad2f1f3748377391d431e5aef29
+Author: TanjaSetka <98274404+TanjaSetka@users.noreply.github.com>
+Date:   Wed Jan 26 16:28:45 2022 +0100
+
+    Initial commit
